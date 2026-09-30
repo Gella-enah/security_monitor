@@ -1,0 +1,11 @@
+#Ignore generated log file
+login_attempts.csv
+#python cache
+__pycache__/
+*.pyc
+#vs code settings
+.vscode/
+#OS junk
+.DS_Store
+Thumb.db
+
