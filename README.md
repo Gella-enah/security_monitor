@@ -97,4 +97,8 @@ network reconnaissance, and simple security monitoring concepts.
    ```bash
 
    cd security_monitor
-
+   python3 login_monitor.py
+   python3 main.py
+   python3 port_checker.py
+   ```
+   
